@@ -1,0 +1,44 @@
+body{
+    background-color:#E0FFFF ;
+}
+.header{
+    color: #E0FFFF;
+    text-align: center;
+    background-color: #193250;
+    border-radius: 30px;
+    letter-spacing: 2px;
+    font-family: sans-serif, Times, serif;
+    font-weight: bold;
+    margin-top: 2%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: xx-large;
+    opacity: 0.95;
+}
+#input-form span{
+    letter-spacing: 5px; color: #193250;
+}
+#input-form p{
+    font-family: 'Times New Roman','Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#input-form input{
+    border: 1px solid #193250;
+    border-radius: 20px;
+    width: 250px;
+    height: 40px;
+}
+#input-form button{
+    font-size: x-large;
+    background-color: #193250;
+    color:#E0FFFF;
+    padding: 8px 15px;
+    border: 1px solid white;
+    border-radius: 30px;
+    box-shadow: 5px 2px 5px #193250;
+}
+#input-form button:active{
+    background-color: #E0FFFF;
+    color:#193250 ;
+    font-weight: bold;
+    border: 2px solid #193250;
+}
